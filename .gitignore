@@ -1,0 +1,14 @@
+# Ignore model files
+models/
+*.pkl
+
+# Ignore data files
+data/
+*.csv
+*.zip
+
+# Ignore notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment
+venv/
